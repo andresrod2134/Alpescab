@@ -1,2 +1,0 @@
-# Alpescab
-Proyrcto sistemas transaccionales
